@@ -1,4 +1,5 @@
-This repository contains contents of the Genetics and Genomics lecture series. We will cover practical applications of GWAS in population genetics and genomics. <br> The covered topics are:
+This repository contains contents of the Genetics and Genomics lecture series. We will cover practical applications of GWAS in population genetics and genomics. 
+The covered topics are:
 - GWAS and Linkage Disequilibrium
 - Polygenic risk scores for disease risk prediction 
 - Vcftools basics
